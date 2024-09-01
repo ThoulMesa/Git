@@ -1,0 +1,14 @@
+C:\Users\roeun\source\repos\TestForm\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\roeun\source\repos\TestForm\TestForm\bin\Debug\TestForm.exe
+C:\Users\roeun\source\repos\TestForm\TestForm\bin\Debug\TestForm.pdb
+C:\Users\roeun\source\repos\TestForm\TestForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roeun\source\repos\TestForm\TestForm\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\roeun\source\repos\TestForm\TestForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roeun\source\repos\TestForm\TestForm\obj\Debug\TestForm.csproj.AssemblyReference.cache
+C:\Users\roeun\source\repos\TestForm\TestForm\obj\Debug\TestForm.Form1.resources
+C:\Users\roeun\source\repos\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Users\roeun\source\repos\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+C:\Users\roeun\source\repos\TestForm\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+C:\Users\roeun\source\repos\TestForm\TestForm\obj\Debug\TestForm.csproj.Up2Date
+C:\Users\roeun\source\repos\TestForm\TestForm\obj\Debug\TestForm.exe
+C:\Users\roeun\source\repos\TestForm\TestForm\obj\Debug\TestForm.pdb
